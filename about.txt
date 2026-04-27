@@ -1,0 +1,4 @@
+My name is Hesham.
+My field is bio medical equipments.
+My favorite programming language is Python.
+I want to learn Git and GitHub to manage code and projects.
